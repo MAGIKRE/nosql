@@ -1,0 +1,4 @@
+[
+    {"name": "Alice", "email": "alice@example.com", "balance": 50000, "address": {"city": "Paris"}},
+    {"name": "Bob", "email": "bob@example.com", "balance": 30000, "address": {"city": "Lyon"}}
+]
