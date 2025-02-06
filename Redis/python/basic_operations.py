@@ -1,5 +1,7 @@
 r.set('username', 'JohnDoe')
+
 r.setex('session_key', 3600, 'session_data')
+
 print(r.get('username').decode('utf-8'))
 
 r.hset('user:1', 'name', 'Alice')
@@ -22,3 +24,5 @@ r.set('user:1:email', 'john.doe@example.com')
 
 print(r.get('user:1:name').decode('utf-8'))
 print(r.get('user:1:email').decode('utf-8'))
+
+
