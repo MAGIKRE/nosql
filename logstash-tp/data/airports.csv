@@ -1,0 +1,4 @@
+id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,tz
+1,Los Angeles International,Los Angeles,USA,LAX,KLAX,33.9425,-118.4081,125,-8,U,America/Los_Angeles
+2,Heathrow,London,UK,LHR,EGLL,51.4775,-0.4614,83,0,E,Europe/London
+3,Charles de Gaulle,Paris,France,CDG,LFPG,49.0097,2.5479,392,1,E,Europe/Paris
