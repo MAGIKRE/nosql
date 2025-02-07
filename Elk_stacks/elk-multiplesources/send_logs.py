@@ -14,7 +14,7 @@ error_logs = [
     {"level": "ERROR", "message": "Permission denied", "user_id": 4},
 ]
 # local set up 
-LOGS_DIR = "./logs"
+LOGS_DIR = "/Users/youcefbaleh/Desktop/nosql-1/Elk_stacks/elk-multiplesources/logs/"
 LOG_FILE = "python_logs.log"
 
 #write log into local file 
